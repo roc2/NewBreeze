@@ -1,11 +1,7 @@
 # NewBreeze [![Build Status](https://travis-ci.org/marcusbritanicus/NewBreeze.svg?branch=master)](https://travis-ci.org/marcusbritanicus/NewBreeze)
 ## A fast and light-weight file manager based on Qt
 
-Chat with me at [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/newbreezefm/)
-
-### Qt5 migration complete. Qt5 is now the preferred Qt version.
-
-### Note: NewBreeze 3.0 is in the oven. Expect several changes..!!
+### This is my final commit on GitHub. The project continues to grow and develop on [GitLab](https://gitlab.com/marcusbritanicus/NewBreeze). See you all there! :)
 
 Built on top of the Powerful Qt GUI Toolkit, this file manager is sleek, stylish and fast.
 Some of its features are
