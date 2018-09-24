@@ -1,7 +1,7 @@
 # NewBreeze
 ## A fast and light-weight file manager based on Qt
 
-## NewBreeze v3-rc3 released: [NB3 RC3](https://gitlab.com/marcusbritanicus/NewBreeze)
+## NewBreeze v3-rc4 released: [NB3 RC4](https://gitlab.com/marcusbritanicus/NewBreeze/tags/v3-rc4)
 
 ### This repo is stale. 
 ### The project continues to grow and develop on [GitLab](https://gitlab.com/marcusbritanicus/NewBreeze). See you all there! :)
